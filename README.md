@@ -1,4 +1,4 @@
-**# Bash Shell Script Database Management System (DBMS)**  
+# **Bash Shell Script Database Management System (DBMS)**  
 
 ## 📌 **Project Overview**  
 This project is a simple yet powerful **Database Management System (DBMS)** implemented using **Bash Shell Scripting**. It allows users to create, manage, and interact with databases stored on disk through a **command-line interface (CLI)**. The system organizes **databases as directories** and **tables as files** (`CSV`, `JSON`, or `XML`).  
